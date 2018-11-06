@@ -70,5 +70,3 @@ dependencies:
   - zlib=1.2.11=hf3cbc9b_2
   - pip:
     - dask==0.20.0
-prefix: /Users/jamesshiely/anaconda3/envs/ml4litho
-
