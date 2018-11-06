@@ -32,7 +32,7 @@ dependencies:
   - libprotobuf=3.6.1
   - libtiff=4.0.9
   - markdown=3.0.1=py36_0
-  - matplotlib=3.0.
+  - matplotlib=2
   - mkl=2019.0=118
   - mkl_fft=1.0.6
   - mkl_random=1.0.1
