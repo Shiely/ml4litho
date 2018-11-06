@@ -24,7 +24,7 @@ dependencies:
   - keras-applications=1.0.6=py36_0
   - keras-preprocessing=1.0.5=py36_0
   - kiwisolver=1.0.1
-  - libcxx=4.0.1
+  - libcxx=4.0
   - libcxxabi=4.0.1
   - libedit=3.1
   - libffi=3.2.1
